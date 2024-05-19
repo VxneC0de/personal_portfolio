@@ -4,7 +4,7 @@
 
 > This page is based on a Free Code Camp project about responsive web design, specifically the ‘Personal Portfolio’ project. There were changes with respect to the original page to imitate, as I changed the colors, personal data, and projects for my own. In addition, since it is a Free Code Camp project, I used the methods, tags, properties, and other necessary elements to complete the page, and even incorporated a media query.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./app_screenshot.jpeg)
 
 Additional description about the project and its features.
 
